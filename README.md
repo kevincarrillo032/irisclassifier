@@ -6,6 +6,7 @@ This is a Flask application that implements a Suport Vector Classifier (SVC) mod
 This application is deployed on Heroku (or your preferred hosting platform).
 
 **Usage**
+
 *1. Accessing the Application:*
 
 The deployed application is accessible through the following URL:
